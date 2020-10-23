@@ -4,4 +4,4 @@ $npx http-server -p 5001
 $npx http-server -p 5002  
 $npx http-server -p 5003  
 çalıştırıp 3 portu açın   
-4. terminali açıp curl localhost:3003 kodunu çalıştırıp istek atın attığınız istekler dğer portların terminallerine düşecektir.
+4. terminali açıp "curl localhost:3003" kodunu çalıştırıp istek atın attığınız istekler dğer portların terminallerine düşecektir.
